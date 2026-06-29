@@ -1,0 +1,14 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+*.Zone.Identifier
+*PG$Secure
+
+outputs/
+models/
+
